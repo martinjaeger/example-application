@@ -1,3 +1,5 @@
+Testing CI for Zephyr v2.7 (main).
+
 # Zephyr Example Application
 
 This repository contains a Zephyr example application. The main purpose of this
