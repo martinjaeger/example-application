@@ -1,4 +1,4 @@
-Testing CI for Zephyr v2.7 (main).
+Testing CI for Zephyr v2.7 (main)
 
 # Zephyr Example Application
 
